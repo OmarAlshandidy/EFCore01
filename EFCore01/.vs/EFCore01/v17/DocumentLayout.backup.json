@@ -1,0 +1,130 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\METRO\\Desktop\\Project\\EFCore\\EFCore01\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{68E4F356-8719-4A39-8F5D-17774E1CE12B}|EFCore01.csproj|c:\\users\\metro\\desktop\\project\\efcore\\efcore01\\entity\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68E4F356-8719-4A39-8F5D-17774E1CE12B}|EFCore01.csproj|solutionrelative:entity\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\METRO\\Desktop\\Project\\EFCore\\EFCore01\\Migrations\\20250214080713_InitaialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20250214080713_InitaialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68E4F356-8719-4A39-8F5D-17774E1CE12B}|EFCore01.csproj|c:\\users\\metro\\desktop\\project\\efcore\\efcore01\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68E4F356-8719-4A39-8F5D-17774E1CE12B}|EFCore01.csproj|solutionrelative:context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68E4F356-8719-4A39-8F5D-17774E1CE12B}|EFCore01.csproj|c:\\users\\metro\\desktop\\project\\efcore\\efcore01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68E4F356-8719-4A39-8F5D-17774E1CE12B}|EFCore01.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\METRO\\Desktop\\Project\\EFCore\\EFCore01\\Migrations\\20250214081118_InitaialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20250214081118_InitaialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68E4F356-8719-4A39-8F5D-17774E1CE12B}|EFCore01.csproj|c:\\users\\metro\\desktop\\project\\efcore\\efcore01\\entity\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68E4F356-8719-4A39-8F5D-17774E1CE12B}|EFCore01.csproj|solutionrelative:entity\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 1169,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "20250214081118_InitaialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\METRO\\Desktop\\Project\\EFCore\\EFCore01\\Migrations\\20250214081118_InitaialCreate.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250214081118_InitaialCreate.cs",
+              "ToolTip": "C:\\Users\\METRO\\Desktop\\Project\\EFCore\\EFCore01\\Migrations\\20250214081118_InitaialCreate.cs",
+              "RelativeToolTip": "Migrations\\20250214081118_InitaialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T08:11:18.381Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "20250214080713_InitaialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\METRO\\Desktop\\Project\\EFCore\\EFCore01\\Migrations\\20250214080713_InitaialCreate.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250214080713_InitaialCreate.cs",
+              "ToolTip": "C:\\Users\\METRO\\Desktop\\Project\\EFCore\\EFCore01\\Migrations\\20250214080713_InitaialCreate.cs",
+              "RelativeToolTip": "Migrations\\20250214080713_InitaialCreate.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAgwAgAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T08:07:14.23Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Department.cs",
+              "DocumentMoniker": "C:\\Users\\METRO\\Desktop\\Project\\EFCore\\EFCore01\\Entity\\Department.cs",
+              "RelativeDocumentMoniker": "Entity\\Department.cs",
+              "ToolTip": "C:\\Users\\METRO\\Desktop\\Project\\EFCore\\EFCore01\\Entity\\Department.cs",
+              "RelativeToolTip": "Entity\\Department.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T08:00:55.674Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\METRO\\Desktop\\Project\\EFCore\\EFCore01\\Context\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Context\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\METRO\\Desktop\\Project\\EFCore\\EFCore01\\Context\\AppDbContext.cs*",
+              "RelativeToolTip": "Context\\AppDbContext.cs*",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAAA4AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T16:37:06.247Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\METRO\\Desktop\\Project\\EFCore\\EFCore01\\Entity\\Employee.cs",
+              "RelativeDocumentMoniker": "Entity\\Employee.cs",
+              "ToolTip": "C:\\Users\\METRO\\Desktop\\Project\\EFCore\\EFCore01\\Entity\\Employee.cs",
+              "RelativeToolTip": "Entity\\Employee.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAACwAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T15:47:18.238Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\METRO\\Desktop\\Project\\EFCore\\EFCore01\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\METRO\\Desktop\\Project\\EFCore\\EFCore01\\Program.cs*",
+              "RelativeToolTip": "Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T15:46:31.022Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
