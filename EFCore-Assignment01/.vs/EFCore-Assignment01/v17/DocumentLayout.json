@@ -1,0 +1,181 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\METRO\\Desktop\\Project\\EFCore\\EFCore-Assignment01\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2ABD6849-A197-4660-A82E-D2A87AD84A14}|EFCore-Assignment01.csproj|c:\\users\\metro\\desktop\\project\\efcore\\efcore-assignment01\\migrations\\20250215072626_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2ABD6849-A197-4660-A82E-D2A87AD84A14}|EFCore-Assignment01.csproj|solutionrelative:migrations\\20250215072626_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ABD6849-A197-4660-A82E-D2A87AD84A14}|EFCore-Assignment01.csproj|c:\\users\\metro\\desktop\\project\\efcore\\efcore-assignment01\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2ABD6849-A197-4660-A82E-D2A87AD84A14}|EFCore-Assignment01.csproj|solutionrelative:context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ABD6849-A197-4660-A82E-D2A87AD84A14}|EFCore-Assignment01.csproj|c:\\users\\metro\\desktop\\project\\efcore\\efcore-assignment01\\configurtion\\stud_course-confing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2ABD6849-A197-4660-A82E-D2A87AD84A14}|EFCore-Assignment01.csproj|solutionrelative:configurtion\\stud_course-confing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ABD6849-A197-4660-A82E-D2A87AD84A14}|EFCore-Assignment01.csproj|c:\\users\\metro\\desktop\\project\\efcore\\efcore-assignment01\\configurtion\\course_inst-config.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2ABD6849-A197-4660-A82E-D2A87AD84A14}|EFCore-Assignment01.csproj|solutionrelative:configurtion\\course_inst-config.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ABD6849-A197-4660-A82E-D2A87AD84A14}|EFCore-Assignment01.csproj|c:\\users\\metro\\desktop\\project\\efcore\\efcore-assignment01\\entity\\course_inst.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2ABD6849-A197-4660-A82E-D2A87AD84A14}|EFCore-Assignment01.csproj|solutionrelative:entity\\course_inst.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ABD6849-A197-4660-A82E-D2A87AD84A14}|EFCore-Assignment01.csproj|c:\\users\\metro\\desktop\\project\\efcore\\efcore-assignment01\\entity\\stud_course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2ABD6849-A197-4660-A82E-D2A87AD84A14}|EFCore-Assignment01.csproj|solutionrelative:entity\\stud_course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ABD6849-A197-4660-A82E-D2A87AD84A14}|EFCore-Assignment01.csproj|c:\\users\\metro\\desktop\\project\\efcore\\efcore-assignment01\\configurtion\\topicconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2ABD6849-A197-4660-A82E-D2A87AD84A14}|EFCore-Assignment01.csproj|solutionrelative:configurtion\\topicconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ABD6849-A197-4660-A82E-D2A87AD84A14}|EFCore-Assignment01.csproj|c:\\users\\metro\\desktop\\project\\efcore\\efcore-assignment01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2ABD6849-A197-4660-A82E-D2A87AD84A14}|EFCore-Assignment01.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ABD6849-A197-4660-A82E-D2A87AD84A14}|EFCore-Assignment01.csproj|c:\\users\\metro\\desktop\\project\\efcore\\efcore-assignment01\\entity\\topic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2ABD6849-A197-4660-A82E-D2A87AD84A14}|EFCore-Assignment01.csproj|solutionrelative:entity\\topic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 1169,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20250215072626_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\METRO\\Desktop\\Project\\EFCore\\EFCore-Assignment01\\Migrations\\20250215072626_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250215072626_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\METRO\\Desktop\\Project\\EFCore\\EFCore-Assignment01\\Migrations\\20250215072626_InitialCreate.cs",
+              "RelativeToolTip": "Migrations\\20250215072626_InitialCreate.cs",
+              "ViewState": "AgIAAGQAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T07:26:27.012Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Stud_Course-Confing.cs",
+              "DocumentMoniker": "C:\\Users\\METRO\\Desktop\\Project\\EFCore\\EFCore-Assignment01\\Configurtion\\Stud_Course-Confing.cs",
+              "RelativeDocumentMoniker": "Configurtion\\Stud_Course-Confing.cs",
+              "ToolTip": "C:\\Users\\METRO\\Desktop\\Project\\EFCore\\EFCore-Assignment01\\Configurtion\\Stud_Course-Confing.cs",
+              "RelativeToolTip": "Configurtion\\Stud_Course-Confing.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAiwA8AAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T07:18:41.011Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Course_Inst-Config.cs",
+              "DocumentMoniker": "C:\\Users\\METRO\\Desktop\\Project\\EFCore\\EFCore-Assignment01\\Configurtion\\Course_Inst-Config.cs",
+              "RelativeDocumentMoniker": "Configurtion\\Course_Inst-Config.cs",
+              "ToolTip": "C:\\Users\\METRO\\Desktop\\Project\\EFCore\\EFCore-Assignment01\\Configurtion\\Course_Inst-Config.cs",
+              "RelativeToolTip": "Configurtion\\Course_Inst-Config.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T07:15:23.502Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Course_Inst.cs",
+              "DocumentMoniker": "C:\\Users\\METRO\\Desktop\\Project\\EFCore\\EFCore-Assignment01\\Entity\\Course_Inst.cs",
+              "RelativeDocumentMoniker": "Entity\\Course_Inst.cs",
+              "ToolTip": "C:\\Users\\METRO\\Desktop\\Project\\EFCore\\EFCore-Assignment01\\Entity\\Course_Inst.cs",
+              "RelativeToolTip": "Entity\\Course_Inst.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T07:12:59.344Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Stud_Course.cs",
+              "DocumentMoniker": "C:\\Users\\METRO\\Desktop\\Project\\EFCore\\EFCore-Assignment01\\Entity\\Stud_Course.cs",
+              "RelativeDocumentMoniker": "Entity\\Stud_Course.cs",
+              "ToolTip": "C:\\Users\\METRO\\Desktop\\Project\\EFCore\\EFCore-Assignment01\\Entity\\Stud_Course.cs",
+              "RelativeToolTip": "Entity\\Stud_Course.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T07:12:00.033Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TopicConfig.cs",
+              "DocumentMoniker": "C:\\Users\\METRO\\Desktop\\Project\\EFCore\\EFCore-Assignment01\\Configurtion\\TopicConfig.cs",
+              "RelativeDocumentMoniker": "Configurtion\\TopicConfig.cs",
+              "ToolTip": "C:\\Users\\METRO\\Desktop\\Project\\EFCore\\EFCore-Assignment01\\Configurtion\\TopicConfig.cs",
+              "RelativeToolTip": "Configurtion\\TopicConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T07:07:28.467Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Topic.cs",
+              "DocumentMoniker": "C:\\Users\\METRO\\Desktop\\Project\\EFCore\\EFCore-Assignment01\\Entity\\Topic.cs",
+              "RelativeDocumentMoniker": "Entity\\Topic.cs",
+              "ToolTip": "C:\\Users\\METRO\\Desktop\\Project\\EFCore\\EFCore-Assignment01\\Entity\\Topic.cs",
+              "RelativeToolTip": "Entity\\Topic.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T07:06:57.044Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\METRO\\Desktop\\Project\\EFCore\\EFCore-Assignment01\\Context\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Context\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\METRO\\Desktop\\Project\\EFCore\\EFCore-Assignment01\\Context\\AppDbContext.cs",
+              "RelativeToolTip": "Context\\AppDbContext.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwBYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T06:05:29.745Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\METRO\\Desktop\\Project\\EFCore\\EFCore-Assignment01\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\METRO\\Desktop\\Project\\EFCore\\EFCore-Assignment01\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T05:53:47.254Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
